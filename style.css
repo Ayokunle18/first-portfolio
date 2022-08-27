@@ -378,6 +378,11 @@ footer h3{
     .header-text h1{
         font-size: 18px;
     }
+    #projects h2{
+        padding-top: 6%;
+        
+        font-size: 22px;
+    }
     .header-buttons button{
         font-size: 0.8rem;
     }
